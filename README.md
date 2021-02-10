@@ -1,2 +1,2 @@
 # Basement of Writeup
-Asset for all my projects
+Assets for all my projects
